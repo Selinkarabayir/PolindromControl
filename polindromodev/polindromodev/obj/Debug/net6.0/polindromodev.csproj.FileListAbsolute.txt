@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.AssemblyInfo.cs
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.exe
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.deps.json
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.runtimeconfig.json
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.dll
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.pdb
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.dll
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\refint\polindromodev.dll
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.pdb
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.genruntimeconfig.cache
+C:\Users\pc\Desktop\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\ref\polindromodev.dll
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.exe
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.deps.json
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.runtimeconfig.json
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.dll
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\bin\Debug\net6.0\polindromodev.pdb
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.AssemblyInfo.cs
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.dll
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\refint\polindromodev.dll
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.pdb
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\polindromodev.genruntimeconfig.cache
+C:\Users\pc\Desktop\2.sınıf 2.dönem\veri yapıları\polindromodev\polindromodev\obj\Debug\net6.0\ref\polindromodev.dll
